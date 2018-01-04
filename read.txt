@@ -1,0 +1,9 @@
+the File Contains tha classes that perform the expected task, kindly notice the following;
+1. we assume that the user will use predifned list for source and destination so we are sure that he choose exist departure and arrival points.
+2. the file contains the follwing classes to perform the task
+	A. TransporatationMethod: this is to identify the Transportation method (train , bus ..) wiyth given name for each, we can add extra fields for this.
+	B.boardingCard: the model for the boarding card and it contain all the needed information to describe the boarding cards including source and destination , Transportation method and other ...
+	C.CardsSet: the full set of boarding cards as storage. it will be used by the user.
+	D.Journey: in this class the requested journay and sort will be processed according to the requested.
+	E. the unit testing will be performed in UnitTest class.
+thank you and regards
